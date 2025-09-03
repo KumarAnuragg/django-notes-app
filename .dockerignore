@@ -1,0 +1,7 @@
+data/
+*.dblwr
+*.ibd
+*.frm
+*.myd
+*.myi
+*.log
